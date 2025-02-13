@@ -1,8 +1,7 @@
-# confused-verbs
-<!DOCTYPE html>
+
 <html>
 <head>
-    <title>终极动词抽选器</title>
+    <title>confused-verbs抽选器</title>
     <style>
         body {
             margin: 0;
